@@ -26,4 +26,13 @@ The emphasis is on:
 - CLI-based execution (automation and CI friendly)
 - Designed for incremental expansion (quality metrics, Vision AI)
 
+---
 
+### Output
+
+The tool generates:
+
+metrics.csv
+A structured summary containing one row per video with metadata and processing statistics.
+
+This output is suitable for: regression comparison, reporting, Excel / Power BI analysis, CI pipelines
